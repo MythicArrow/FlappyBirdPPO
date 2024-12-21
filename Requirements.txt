@@ -1,0 +1,6 @@
+gym==0.26.2           # For the Flappy Bird environment and reinforcement learning utilities
+flax==0.7.5           # For implementing neural networks with the latest nnx API
+jax==0.4.15           # JAX for accelerated numerical computations
+jaxlib==0.4.15        # JAX library for GPU/TPU support
+optax==0.1.5          # Optimization library for JAX (e.g., Adam optimizer)
+numpy==1.23.5         # Numerical computations
